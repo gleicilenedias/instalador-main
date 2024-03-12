@@ -1,6 +1,6 @@
-<h1 align="center">Whaticket Baileys cumunidade |Canal Vem Fazer</h1>
+<h1 align="center">Wha</h1>
 
-<h1 align="center">https://www.youtube.com/@vemfazer</h1>
+<h1 align="center">http</h1>
 
 
 ## Vamos instalar?
