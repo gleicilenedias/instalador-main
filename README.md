@@ -29,7 +29,7 @@ Subdominio para API -Seu backend
 
 ## Consultoria e contato:
 
-    Bigchat
+    BigZap
 
     Fone: 31992127204 (WhatsApp)
 
