@@ -30,7 +30,7 @@ printf ${CYAN_LIGHT}"   / /    / _ \   | |_) |\n";
 printf ${CYAN_LIGHT}"  / /_   / ___ \  |  __/ \n"; 
 printf ${CYAN_LIGHT}" /____| /_/   \_\ |_| \n"; 
                                                                                                                                                          
-  printf "            \033[1;33m        © BigZap - Tecnologia Em antendimento\n";
+  printf "            \033[1;33m        © BigZap - Tecnologia Em Antendimento\n";
   printf "${NC}";
 
   printf "\n"
